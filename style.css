@@ -1,0 +1,12 @@
+/* header nav ul {
+    list-style-type: none;
+    margin: 50;
+}
+header {
+    background-color: rgb(35, 32, 207);
+} */
+nav ul li{
+    display: inline;
+    float: left;
+    margin-left: 50px;
+}
